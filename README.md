@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Great-special
 - 👀 I’m interested in Python, Data analysis, Software Engineering, Machine learning  
 - 🌱 I’m currently learning Data analysis
-- 💞️ I’m looking to collaborate on Software Engineering projects(IOT) 
+- 💞️ I’m looking to collaborate on Software Engineering projects(IOT), Automation
 - 📫 How to reach me +234 7032074053, nwaspecialg@gmail.com, twitter@ Godisgreat
 
 <!---
